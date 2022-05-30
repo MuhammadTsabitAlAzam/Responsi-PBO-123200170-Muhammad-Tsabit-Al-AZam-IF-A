@@ -21,7 +21,7 @@ import view.Gaji;
 
 /**
  *
- * @author hp
+ * @author ASUS
  */
 public class kontrol {
     
